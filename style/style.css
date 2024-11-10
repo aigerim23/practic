@@ -1,0 +1,25 @@
+*{
+    background-color: aqua;
+}
+.container{
+    display:flex;
+    height: 200px;
+}
+.first{
+    background-color: aliceblue;
+    width: 200px;
+    height: 200px;
+  
+}
+.second{
+    background-color:blueviolet ;
+    width: 200px;
+    height: 200px;
+    
+}
+.third{
+    background-color:rgb(43, 226, 70) ;
+    width: 200px;
+    height: 200px;
+   
+}

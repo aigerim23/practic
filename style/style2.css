@@ -1,0 +1,14 @@
+.comp{
+    background-image: url("../img/bg.jpg");
+    height: 100vh;
+    position: relative;
+}
+.planet3{
+    position: absolute;
+    margin: auto;
+    top: 100px;
+}
+.superman{
+position: relative;
+z-index: 1;
+}
